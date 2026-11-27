@@ -1,0 +1,7 @@
+name = "sfrem-counter"
+main = "worker.js"
+compatibility_date = "2026-11-27"
+
+[[kv_namespaces]]
+binding = "COUNTERS"
+id = "814ed2127f444f9a8349fcda4a59ab78"
